@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "WNJ85",
+    "longName": "Bloc Man",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Mini.png",
+                "menuIcon": true,
+                "name": "IMAGE_MINIBLOCMAN_COL",
+                "type": "png"
+            },
+            {
+                "file": "images/Full.png",
+                "name": "IMAGE_BLOCMAN_COL",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Bloc Man",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "6cd0c0e9-26eb-4709-a3cc-c90b93e4a835",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
